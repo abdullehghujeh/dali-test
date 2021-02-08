@@ -1,4 +1,6 @@
 #!/bin/bash
+# TEMPORARILY DISABLE ALL TESTS ON THE devel/graphics BRANCH
+exit 0
 
 # Usage Function
 Usage()
